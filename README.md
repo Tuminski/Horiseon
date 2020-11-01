@@ -10,6 +10,6 @@ Codebase refractor that meets Accetpance Criteria
 [Click me](https://tuminski.github.io/Horiseon/) to go to the Horiseon Main page
 
 - - - -
-## Screenshot
+# Screenshot
 
 ![Screenshot](assets/images/Capture.png)
